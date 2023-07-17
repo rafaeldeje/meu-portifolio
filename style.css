@@ -68,7 +68,7 @@ header .navegacao-primaria li a{
     gap: 30px;
 }
 
-.section-div div h2{
+.section-div div h2, h3{
     font-family: 'Poppins';
     font-weight: 600;
     color: #f7f7f7;
